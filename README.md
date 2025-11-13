@@ -1,16 +1,50 @@
-## Hi there 👋
-
 <!--
-**leojcl/leojcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  README for github.com/leojcl/leojcl
 -->
+
+<h1 align="center">👋 Hi, I'm <strong>Leo</strong></h1>
+<h3 align="center">Journey · Code · Life — <br/>rewriting my future with every commit</h3>
+
+---
+
+### 🌌 About **leoJCL**
+
+`leoJCL` stands for **Journey · Code · Life**.  
+It’s my personal reset button — a reminder that I can:
+
+- refactor my habits,
+- rebuild my journey,
+- and rewrite my life story…
+
+👉 **one line of code at a time.**
+
+---
+
+### 🧑‍💻 Who am I?
+
+- Backend Developer (Java).
+- 🎓 B.S. in Information Technology – Saigon Technology University.
+- ⚙️ Nearly 4 years of experience in software development.
+- 💡 Young, dynamic, creative, and able to work under high pressure.
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_DB-F80000?logo=oracle&logoColor=white" />
+</p>
+
+- **Languages:** Java, SQL  
+- **Backend:** Spring Boot, Spring MVC, JPA/Hibernate, RESTful APIs  
+- **Database:** Oracle, MySQL  
+- **Other:** Git, Docker (basic), Linux, Jenkins (basic CI/CD)
+
+---
+
+### 📚 Journey · Code · Life
+
+
