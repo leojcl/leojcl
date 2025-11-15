@@ -10,11 +10,11 @@
 ### 🌌 About **leoJCL**
 
 `leoJCL` stands for **Journey · Code · Life**.  
-It’s my personal reset button — a reminder that I can:
+It’s my personal journey, building my projects each day is just like building my life.
 
-- refactor my habits,
-- rebuild my journey,
-- and rewrite my life story…
+- Refactor my habits,
+- Craft a life shaped by discipline,
+- Your mindset defines who you are.
 
 👉 **one line of code at a time.**
 
@@ -22,9 +22,9 @@ It’s my personal reset button — a reminder that I can:
 
 ### 🧑‍💻 Who am I?
 
-- Backend Developer (Java).
+- 📚 Backend Developer (Java).
 - 🎓 B.S. in Information Technology – Saigon Technology University.
-- ⚙️ Nearly 4 years of experience in software development.
+- ⚙️ 4 years of experience in software development.
 - 💡 Young, dynamic, creative, and able to work under high pressure.
 
 ---
