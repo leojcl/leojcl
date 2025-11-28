@@ -61,8 +61,11 @@ It’s my personal journey, building my projects each day is just like building 
 <p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=LeoJCL&show_icons=true&theme=radical&hide_border=true"width="400"/>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=LeoJCL&theme=radical&hide_border=true"width="400"/>
+</p>
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 
