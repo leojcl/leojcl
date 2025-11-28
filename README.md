@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7480C&width=550&lines=Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%93%9A+Journey+%C2%B7+Code+%C2%B7+Life;Code+for+my+future+with+every+commit+%F0%9F%8E%AF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F7480C&width=550&lines=Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%93%9A+Journey+%C2%B7+Code+%C2%B7+Life;Code+for+my+future+with+every+commit+%F0%9F%8E%AF" alt="Typing SVG" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@ It’s my personal journey, building my projects each day is just like building 
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=LeoJCL&show_icons=true&theme=radical&hide_border=true"width="400"/>
+    src="https://github-readme-streak-stats.herokuapp.com?user=LeoJCL&theme=radical&hide_border=true" width="400"/>
 </p>
 
 ---
