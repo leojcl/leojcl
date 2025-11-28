@@ -3,12 +3,22 @@
 -->
 
 <h1 align="center">👋 Hi, I'm <strong>Leo</strong></h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7480C&width=550&lines=+++++Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%93%9A++++Journey+%C2%B7+Code+%C2%B7+Life;+++++Code+for+my+future+with+every+commit+%F0%9F%8E%AF" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com
+      ?font=Fira+Code
+      &size=22
+      &pause=1000
+      &color=F7480C
+      &center=true
+      &vCenter=true
+      &width=650
+      &lines=Backend+Developer+👨‍💻;📚+Journey+·+Code+·+Life;Code+for+my+future+with+every+commit+🎯"
+      alt="Typing SVG" />
   </a>
 </p>
-
 
 ---
 
