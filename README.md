@@ -3,7 +3,9 @@
 -->
 
 <h1 align="center">👋 Hi, I'm <strong>Leo</strong></h1>
-<h3 align="center">📚 Journey · Code · Life <br/>Code for my future with every commit</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;📚Journey-Code-Life;Coding+for+my+future+with+every+commit+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 ---
 
