@@ -56,4 +56,20 @@ It’s my personal journey, building my projects each day is just like building 
 
 ---
 
+<h2 align="left">### 📊 GitHub Activity</h2>
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=LeoJCL&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"
+    width="420"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=LeoJCL&theme=github-dark&hide_border=true"
+    width="420"
+  />
+</p>
+
 
