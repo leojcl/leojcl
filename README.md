@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm <strong>Leo</strong></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=1800&pause=1000&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Build+APIs+·+Design+Systems+·+Solve+Problems;Code+with+discipline+and+long-term+thinking" alt="Typing SVG" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7480C&width=435&lines=Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%93%9A+Journey+%C2%B7+Code+%C2%B7+Life;Code+for+my+future+with+every+commit+%F0%9F%8E%AF)](https://git.io/typing-svg)
 </p>
 
 
