@@ -42,7 +42,6 @@ It’s my personal journey, building my projects each day is just like building 
   <img src="https://img.shields.io/badge/Spring_Boot/MVC-6DB33F?logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-005571?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-000000?logo=microservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_DB-F80000?logo=oracle&logoColor=white" />
@@ -50,9 +49,9 @@ It’s my personal journey, building my projects each day is just like building 
 </p>
 
 - **Languages:** Java, SQL  
-- **Backend:** Spring Boot, Spring MVC, JPA/Hibernate, RESTful APIs, Microservice, Kafka  
+- **Backend:** Spring Boot, Spring MVC, JPA/Hibernate, RESTful APIs, Microservice  
 - **Database:** Oracle, MySQL  
-- **Other:** Git, Docker, Jira, AWS, 
+- **Other:** Git, Docker, Jira, AWS, Problem Solving
 
 ---
 
