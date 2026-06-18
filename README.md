@@ -13,16 +13,15 @@
 
 ---
 
-### 🌌 About **leoJCL**
+### 🌌 About **leo**
 
-`leoJCL` stands for **Journey · Code · Life**.  
-It’s my personal journey, building my projects each day is just like building my life.
+The value is in the system you build, not the bugs you fix.
 
-- Refactor my habits,
-- Craft a life shaped by discipline,
-- Your mindset defines who you are.
+- Driven to move
+- Quality over quantity
+- A system that can't scale is just a prototype
 
-👉 **one line of code at a time.**
+👉 **One solid commit today beats a perfect plan tomorrow.**
 
 ---
 
